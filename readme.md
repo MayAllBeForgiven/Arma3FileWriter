@@ -1,4 +1,4 @@
-⚠ Make sure the file path and data does not contain any spaces
+⚠ Make sure the file path and data does not contain any spaces (I may or may not fix this in the future)
 
 # Arma3FileWriter
 
