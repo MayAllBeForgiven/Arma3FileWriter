@@ -1,3 +1,5 @@
+⚠ Make sure the file path and data does not contain any spaces
+
 # Arma3FileWriter
 
 An Arma 3 extension that allows SQF scripts to write or append data to external files. It's currently has no linux support, just windows.
@@ -30,7 +32,6 @@ If you want to append you can change the command string to say append instead of
 ```
 private _commandString = format ["append %1 %2", _escapedFilePath, _data];
 ```
-⚠ Make sure the file path does not contain any spaces as i have not implemented support for spaces in the filepath
 
 ## Source code
 I've aded the source code as a .cpp file if you want to make modifications or compile it yourself.
