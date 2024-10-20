@@ -3,9 +3,9 @@
 An Arma 3 extension that allows SQF scripts to write or append data to external files. It's currently has no linux support, just windows.
 
 ## Installation
-Copy the @Arma3FileWriter into the Arma 3 root folder. 
+Copy the @Arma3FileWriter folder into the Arma 3 root folder. 
 
-ℹ - I've not submitted this extention to Battleye so you will have to check it off in the arma 3 launcher in order to use this extention.
+ℹ - I've not submitted this extention to Battleye so you will have to disable battleye off in the arma 3 launcher in order to use this extention.
 
 ## Usage
 
